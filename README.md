@@ -4,14 +4,14 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>Windows Server + Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- coming soon </b>
 
 
 <h2>💻 IT Projects:</h2>
 
 - <b>Windows Server + Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Build your own Helpdesk](https://github.com/BrandonTheo/HelpdeskServer/blob/main/README.md)
+
 
 
 <h2>📟 Networking Projects</h2>
