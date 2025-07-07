@@ -9,14 +9,14 @@
 
 <h2>💻 IT Projects:</h2>
 
-- <b>Windows Server + Active Directory Home Lab </b>
+- <b>[Windows Server + Active Directory Home Lab](https://github.com/BrandonTheo/windowServer) </b>
 - [Build your own Helpdesk](https://github.com/BrandonTheo/HelpdeskServer/blob/main/README.md)
 
 
 
 <h2>📟 Networking Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- coming soon
 
 
 <h2> 🤳 Connect with me:</h2>
