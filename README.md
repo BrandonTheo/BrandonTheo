@@ -11,6 +11,7 @@
 
 - <b>[Windows Server + Active Directory Home Lab](https://github.com/BrandonTheo/windowServer) </b>
 - [Build your own Helpdesk](https://github.com/BrandonTheo/HelpdeskServer/blob/main/README.md)
+- [Gaming PC Build](https://github.com/BrandonTheo/PC-Build/blob/main/README.md)
 
 
 
