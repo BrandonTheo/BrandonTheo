@@ -4,7 +4,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- coming soon </b>
+- National Diploma in Mechatronics  </b>
 
 
 <h2>💻 IT Projects:</h2>
